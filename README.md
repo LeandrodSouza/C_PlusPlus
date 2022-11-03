@@ -1,5 +1,6 @@
-<h1 align="center"> 📁 C++ </h1>
- 
+<h1 align="center"> 📁 C++ 
+
+
 <p align="center"><img src="http://img.shields.io/static/v1?label=STATUS&message=Learning%20Ever&color=GREEN&style=for-the-badge"/></p>
 
  <?xml version="1.0" encoding="utf-8"?>
@@ -27,3 +28,6 @@
 		263.5,177.841 274.834,177.841 274.834,189.175 286.166,189.175 286.166,177.841 297.5,177.841 	"/>
 </g>
 </svg>
+
+</h1>
+ 
